@@ -11,20 +11,16 @@ O Amplify é um sistema desenvolvido em Python para registrar e gerenciar transa
 - Registro de transações de empréstimos.
 - Cálculo de total emprestado e retorno com juros.
 - Visualização e gestão das transações.
+- cadastro de novos usuarios e login
 
 ## Instalação
 
 1. Clone o repositório:
 git clone https://github.com/caikeee/Amplify.git
 
-csharp
-Copiar código
-
 2. Instale as dependências:
 pip install -r requirements.txt
 
-bash
-Copiar código
 
 ## Uso
 
